@@ -6,7 +6,7 @@ welcome: to-my-profile-page
 emoji: ✌🏻
 
 francoisdtm:
-  age: 24
+  age: 25
   nationality: 🇫🇷
   height: 189 #cm
   background: EPITA
